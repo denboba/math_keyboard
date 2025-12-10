@@ -153,7 +153,7 @@ class _ControlledMathInputState extends State<ControlledMathInput> {
 React to user input:
 
 ```dart
-class ReactiveM athInput extends StatefulWidget {
+class ReactiveMathInput extends StatefulWidget {
   @override
   _ReactiveMathInputState createState() => _ReactiveMathInputState();
 }
